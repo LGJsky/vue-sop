@@ -1,0 +1,5 @@
+//格式化时 自动转换双引号为单引号，去掉分号
+{
+    "semi": false,
+    "singleQuote": true
+}
